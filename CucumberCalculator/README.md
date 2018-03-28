@@ -1,2 +1,0 @@
-# CucumberCalculator
-Calculator using Cucumber 
